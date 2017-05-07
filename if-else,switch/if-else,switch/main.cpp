@@ -1,4 +1,3 @@
-
 //подключение дерективы(программы) include и файл(библиотека)
 #include <conio.h>
 #include <iostream>
@@ -1812,6 +1811,7 @@ cout << " ќстаток секунд\t\t" << ostatokSECC <<  endl;
 */
 
 //cout << "BMI" << endl;
+//cout << "BMI2" << endl;
 //double BMI,Height,Weight;
 //cout << "¬ведите рост в метрах\n";
 //cin >> Height;
